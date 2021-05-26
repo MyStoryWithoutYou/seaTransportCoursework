@@ -1,0 +1,6 @@
+id;status_name;description
+1;received;request is received
+2;in transit;order is in transit to shipment port
+3;shipped;order came to destination
+4;in processing;order is in processing
+
